@@ -6,7 +6,7 @@ public class KakaoSeongKyeok {
         String[] survey = {"RT", "CF", "JM", "AN"};
         int[] choices = {1, 2, 3, 4};
 
-        Solution solutionObject = new Solution(); // 오타 수정: new Solution()으로 변경
+        Solution solutionObject = new Solution();
         String result = solutionObject.solution(survey, choices);
 
         System.out.println(result);
