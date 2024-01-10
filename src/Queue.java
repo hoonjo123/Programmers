@@ -1,7 +1,4 @@
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.PriorityQueue;
-import java.util.StringTokenizer;
+import java.util.*;
 
 public class Queue {
     public static void main(String[] args) {
@@ -53,5 +50,16 @@ public class Queue {
             answer[1] = pq.poll();
         }
         System.out.println(Arrays.toString(answer));
+
+        String s = "1234";
+        int n = 12;
+        List<Integer> list = new ArrayList<>();
+
+        for (int i = 1; i <= n; i++) {
+            if( n % i == 0){
+                list.add(i);
+            }
+        }
+        System.out.println(list);
     }
 }
