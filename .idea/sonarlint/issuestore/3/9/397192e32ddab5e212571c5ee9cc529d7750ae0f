@@ -1,0 +1,19 @@
+
+z	java:S135""YReduce the total number of break and continue statements in this loop to use at most one.(÷öÜşÿÿÿÿ8œ“æèÑ1
+z	java:S1352"YReduce the total number of break and continue statements in this loop to use at most one.(÷öÜşÿÿÿÿ8“æèÑ1
+z	java:S135B"YReduce the total number of break and continue statements in this loop to use at most one.(÷öÜşÿÿÿÿ8“æèÑ1
+z	java:S135Q"YReduce the total number of break and continue statements in this loop to use at most one.(÷öÜşÿÿÿÿ8é çèÑ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ğÄöÿÿÿÿÿ8“æèÑ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(Çµí‘8Ü“æèÑ1
+h
+java:S1871("LThis branch's code block is the same as the block for the branch on line 36.(ã’ğz8Ş“æèÑ1
+h
+java:S18718"LThis branch's code block is the same as the block for the branch on line 52.(ã’ğz8Ş“æèÑ1
+i
+java:S1871G"LThis branch's code block is the same as the block for the branch on line 68.(¥Æ¢¹8Ş“æèÑ1
+h
+java:S1871W"LThis branch's code block is the same as the block for the branch on line 83.(ã’ğz8¬¡çèÑ1
+G	java:S106c"+Replace this use of System.out by a logger.(„ƒÓ«8›õéèÑ1
+ã
+java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 90 to 64, Complexity from 24 to 14, Nesting Level from 4 to 2, Number of Variables from 23 to 6.(Çµí‘8ß“æèÑ1

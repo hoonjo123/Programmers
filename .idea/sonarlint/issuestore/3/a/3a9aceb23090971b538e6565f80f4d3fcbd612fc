@@ -1,0 +1,15 @@
+
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(‡‡–¸øÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¡´å
+0
+java:S1220""Move this file to a named package.
+K
+java:S18546"5Remove this useless assignment to local variable "s".(½ÃŸğ
+Y
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(± §İùÿÿÿÿ
+Y
+java:S1155/">Use isEmpty() to check whether the collection is empty or not.(ÿŠ‰üÿÿÿÿ
+@	java:S1064"+Replace this use of System.out by a logger.(„ƒÓ«
+<
+java:S14816"&Remove this unused "s" local variable.(½ÃŸğ
+E	java:S106?"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ

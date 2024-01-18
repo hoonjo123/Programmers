@@ -1,0 +1,10 @@
+
+0
+java:S1220""Move this file to a named package.
+1
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ
+U
+java:S6213":Rename this variable to not match a restricted identifier.(¦µÁÓÿÿÿÿÿ
+P	java:S125
+"<This block of commented-out lines of code should be removed.(Š§¡
+?	java:S1069"+Replace this use of System.out by a logger.(‚š‰1
