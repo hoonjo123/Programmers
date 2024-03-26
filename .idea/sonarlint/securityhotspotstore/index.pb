@@ -25,3 +25,15 @@ O
 src/Level01/Lv1MemoryPoint.java,4/f/4f633155bcc31808b5ac396a6197641300fbf400
 H
 src/Level01/Lv1Park.java,3/9/397192e32ddab5e212571c5ee9cc529d7750ae0f
+G
+src/Level01/Lv1_04.java,e/d/edd38f45f376707ab877999dd23f15d7a978bd05
+F
+src/Basic/Basic15.java,c/f/cf2a66b9e7f170f03fc98a7f61b1f44172926bf5
+L
+src/Basic/foodrecommend.java,4/e/4e4b9062b9ade564b4d7f04a0b8d761d7784af8d
+F
+src/Basic/badword.java,c/a/caaa6b49316515a90d42932985c29ee8bf73d6a9
+G
+src/Level01/Lv1_05.java,d/8/d802a1d9298a6cfb8199774063978e58126f96dc
+G
+src/Level02/Lv2_01.java,6/f/6f6fad692a2bc95c274d56486e4fb817f10000f5
